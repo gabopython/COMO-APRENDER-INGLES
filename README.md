@@ -15,7 +15,7 @@ Youtubers recomendados:
 >- BUSCA INTERCAMBIOS DE LENGUAGE O CLUBS DE ENGLISH CONVERSATION (VALIDO PARA CUALQUIER NIVEL, PERO TE RECOMIENDO ORACTICAR MUCHO ANTES)
 ##  PASO 3: VOCABULARY
 >- LEE MUCHO Y USA LA [EXTENCION](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=en) PARA TRADUCIR RAPIDAMENTE. PERO RECUERDA, DECIR 'SLEEP SIGNIFICA DORMIR" NO ES SUFICIENTE, TIENES QUE APRENDER LOS SIGNIFICADOS SIN DEPENDER DE TU IDIOMA NATIVO, ES DECIR, CUANDO ALGUIEN TE DIGA "EAT" NO PIENSES EN "COMER" PIENSA EN:
-<img src="https://github.com/Gabriel-prog3/IMAGES/blob/main/Screenshot%202023-03-18%20224008.png" alt="drawing" width="40"/>
+> <img src="https://github.com/Gabriel-prog3/IMAGES/blob/main/Screenshot%202023-03-18%20224008.png" alt="drawing" width="50"/>
 
 ##  PASO 3: PRONUNCIATION
 >- CANTA
