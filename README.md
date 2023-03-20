@@ -16,6 +16,7 @@ Youtubers recomendados:
 ##  PASO 3: VOCABULARY
 >- LEE MUCHO Y USA LA [EXTENCION](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=en) PARA TRADUCIR RAPIDAMENTE. PERO RECUERDA, DECIR 'SLEEP SIGNIFICA DORMIR" NO ES SUFICIENTE, TIENES QUE APRENDER LOS SIGNIFICADOS SIN DEPENDER DE TU IDIOMA NATIVO, ES DECIR, CUANDO ALGUIEN TE DIGA "EAT" NO PIENSES EN "COMER" PIENSA EN:
 > <img src="https://github.com/Gabriel-prog3/IMAGES/blob/main/Screenshot%202023-03-18%20224008.png" alt="drawing" width="50"/>
+>
 >- USA ESTA [WEBSITE](https://bestflashcard.com/) PARA PONER EN PRACTICA TU VOCABULARIO
 
 ##  PASO 3: PRONUNCIATION
